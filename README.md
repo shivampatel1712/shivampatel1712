@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivampatel1712" alt="shivampatel1712" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivampatel1712" alt="shivampatel1712" /></a> </p> -->
 
 - 🔭 I’m currently working on **Server configuration...**
 
